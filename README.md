@@ -13,7 +13,7 @@ I broke down the project into manageable chunks:
 
 The catch? I could only use `write`, `malloc`, and `free`. Everything else had to be built from the ground up!
 
-## Challenges? Oh boy...
+## The Challenges?
 - 🧠 Getting my head around pointer arithmetic
 - 🐛 Hunting down those sneaky memory leaks
 - ⚡ Making functions both efficient and reliable
