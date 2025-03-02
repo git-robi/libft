@@ -14,10 +14,10 @@ I broke down the project into manageable chunks:
 The catch? I could only use `write`, `malloc`, and `free`. Everything else had to be built from the ground up!
 
 ## Challenges? Oh boy...
-🧠 Getting my head around pointer arithmetic
-🐛 Hunting down those sneaky memory leaks
-⚡ Making functions both efficient and reliable
-🎯 Matching the exact behavior of the original functions
+-🧠 Getting my head around pointer arithmetic
+-🐛 Hunting down those sneaky memory leaks
+-⚡ Making functions both efficient and reliable
+-🎯 Matching the exact behavior of the original functions
 
 ## What I learned
 This project was like a coding boot camp! I now have:
