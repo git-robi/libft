@@ -1,6 +1,6 @@
 # 📚 Libft Project
 
-Hey there! Welcome to my Libft project. This was my first adventure at 42 School, and it was quite a ride! 🚀
+Hey there! Welcome to my Libft project. This was my first adventure at 42 School, and it was quite a ride! 
 
 ## What's this all about?
 Imagine being told you can't use any standard C functions... you have to build them yourself! That's exactly what this project is about. I had to recreate many standard C library functions from scratch, building my own set of functions that I'll be using throughout my 42 journey.
@@ -8,16 +8,16 @@ Imagine being told you can't use any standard C functions... you have to build t
 ## How did I tackle it?
 I broke down the project into manageable chunks:
 - Started with the basic stuff (string manipulation, memory management)
-- Moved on to the trickier functions (linked lists, anyone?)
-- Wrapped it all up in a neat library called `libft.a`
+- Moved on to the trickier functions (linked lists)
+- Wrapped it all up in a library called `libft.a`
 
-The catch? I could only use `write`, `malloc`, and `free`. Everything else had to be built from the ground up!
+I could only use `write`, `malloc`, and `free`. Everything else had to be built from the ground up!
 
-## The Challenges?
-- 🧠 Getting my head around pointer arithmetic
-- 🐛 Hunting down those sneaky memory leaks
-- ⚡ Making functions both efficient and reliable
-- 🎯 Matching the exact behavior of the original functions
+## The Challenges
+- getting my head around pointer arithmetic
+- Hunting down memory leaks
+- Making functions both efficient and reliable
+- Matching the exact behavior of the original functions
 
 ## What I learned
 This project was like a coding boot camp! I now have:
